@@ -1,0 +1,310 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+
+#EXTINF:-1 tvg-name="CCTV1", group-title="[高清]央视",CCTV-1 综合[高清]
+http://tv4:9000/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-name="CCTV2", group-title="[高清]央视",CCTV-2 财经[高清]
+http://tv4:9000/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-name="CCTV3", group-title="[高清]央视",CCTV-3 综艺[高清]
+http://tv4:9000/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-name="CCTV4", group-title="[高清]央视",CCTV-4 中文国际[高清]
+http://tv4:9000/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-name="CCTV4EUO", group-title="[高清]央视",CCTV-4 中文国际 欧洲[高清]
+http://tv4:9000/rtp/239.3.1.213:4220
+#EXTINF:-1 tvg-name="CCTV4AME", group-title="[高清]央视",CCTV-4 中文国际 美洲[高清]
+http://tv4:9000/rtp/239.3.1.214:4220
+#EXTINF:-1 tvg-name="CCTV5", group-title="[高清]央视",CCTV-5 体育[高清]
+http://tv4:9000/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-name="CCTV5+", group-title="[高清]央视",CCTV-5+ 体育赛事[高清]
+http://tv4:9000/rtp/239.3.1.130:8004
+#EXTINF:-1 tvg-name="CCTV6", group-title="[高清]央视",CCTV-6 电影[高清]
+http://tv4:9000/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-name="CCTV7", group-title="[高清]央视",CCTV-7 国防军事[高清]
+http://tv4:9000/rtp/239.3.1.61:8104
+#EXTINF:-1 tvg-name="CCTV8", group-title="[高清]央视",CCTV-8 电视剧[高清]
+http://tv4:9000/rtp/239.3.1.175:8001
+#EXTINF:-1 tvg-name="CCTV9", group-title="[高清]央视",CCTV-9 纪录[高清]
+http://tv4:9000/rtp/239.3.1.62:8112
+#EXTINF:-1 tvg-name="CCTV10", group-title="[高清]央视",CCTV-10 科教[高清]
+http://tv4:9000/rtp/239.3.1.63:8116
+#EXTINF:-1 tvg-name="CCTV11", group-title="[高清]央视",CCTV-11 戏曲[高清]
+http://tv4:9000/rtp/239.3.1.152:8120
+#EXTINF:-1 tvg-name="CCTV12", group-title="[高清]央视",CCTV-12 社会与法[高清]
+http://tv4:9000/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-name="CCTV13", group-title="[高清]央视",CCTV-13 新闻[高清]
+http://tv4:9000/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-name="CCTV14", group-title="[高清]央视",CCTV-14 少儿[高清]
+http://tv4:9000/rtp/239.3.1.65:8132
+#EXTINF:-1 tvg-name="CCTV15", group-title="[高清]央视",CCTV-15 音乐[高清]
+http://tv4:9000/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-name="CCTV16", group-title="[高清]央视",CCTV-16 奥林匹克[超清HDR]
+http://tv4:9000/rtp/239.3.1.183:8001
+#EXTINF:-1 tvg-name="CCTV16", group-title="[高清]央视",CCTV-16 奥林匹克[高清]
+http://tv4:9000/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-name="CCTV17", group-title="[高清]央视",CCTV-17 农业农村[高清]
+http://tv4:9000/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-name="CCTV4K", group-title="[高清]央视",CCTV-4K 超高清[超清HDR]
+http://tv4:9000/rtp/239.3.1.245:2000
+#EXTINF:-1 tvg-name="凤凰中文", group-title="凤凰",凤凰卫视中文[非官方]
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217df8a-46d8-4fa8-b040-5abdd96d91ce.flv
+#EXTINF:-1 tvg-name="凤凰资讯", group-title="凤凰",凤凰卫视资讯[非官方]
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2cb.flv
+#EXTINF:-1 tvg-name="北京卫视", group-title="BRTV",BRTV北京卫视[4k]
+http://tv4:9000/rtp/239.3.1.118:8001
+#EXTINF:-1 tvg-name="北京卫视", group-title="BRTV",BRTV北京卫视[高清]
+http://tv4:9000/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-name="北京卫视", group-title="BRTV",BRTV北京卫视[超清]
+http://tv4:9000/rtp/239.3.1.22:8001
+#EXTINF:-1 tvg-name="BTV新闻", group-title="BRTV",BRTV新闻[高清]
+http://tv4:9000/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-name="BTV影视", group-title="BRTV",BRTV影视[高清]
+http://tv4:9000/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-name="BTV文艺", group-title="BRTV",BRTV文艺[高清]
+http://tv4:9000/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-name="BTV财经", group-title="BRTV",BRTV财经[高清]
+http://tv4:9000/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-name="BTV生活", group-title="BRTV",BRTV生活[高清]
+http://tv4:9000/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-name="BTV青年", group-title="BRTV",BRTV青年[高清]
+http://tv4:9000/rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-name="BTV科教", group-title="BRTV",BRTV纪实科教[高清]
+http://tv4:9000/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-name="卡酷动画", group-title="BRTV",BRTV卡酷少儿[高清]
+http://tv4:9000/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-name="北京纪实", group-title="BRTV",BRTV冬奥纪实[高清]
+http://tv4:9000/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-name="北京纪实", group-title="BRTV",BRTV冬奥纪实[超清HDR]
+http://tv4:9000/rtp/239.3.1.120:8000
+#EXTINF:-1 tvg-name="北京纪实", group-title="BRTV",BRTV冬奥纪实[超清]
+http://tv4:9000/rtp/239.3.1.121:8000
+#EXTINF:-1 tvg-name="BTV体育", group-title="BRTV",BRTV体育休闲[高清]
+http://tv4:9000/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-name="联通IPTV", group-title="BRTV",BRTV国际频道[高清]
+http://tv4:9000/rtp/239.3.1.235:8000
+#EXTINF:-1 tvg-name="爱上4K", group-title="联通IPTV",爱上4K[超清]
+http://tv4:9000/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",4K超清[超清]
+http://tv4:9000/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",淘电影[高清]
+http://tv4:9000/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",每日影院[高清]
+http://tv4:9000/rtp/239.3.1.111:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",星影
+http://tv4:9000/rtp/239.3.1.94:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",动作影院
+http://tv4:9000/rtp/239.3.1.92:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",光影
+http://tv4:9000/rtp/239.3.1.84:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",喜剧影院
+http://tv4:9000/rtp/239.3.1.91:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",家庭影院
+http://tv4:9000/rtp/239.3.1.93:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",精选
+http://tv4:9000/rtp/239.3.1.74:4120
+#EXTINF:-1 tvg-name="IPTV经典电影", group-title="联通IPTV",经典电影
+http://tv4:9000/rtp/239.3.1.195:9024
+#EXTINF:-1 tvg-name="上海纪实", group-title="其他",纪实人文[高清]
+http://tv4:9000/rtp/239.3.1.212:8060
+#EXTINF:-1 tvg-name="金鹰纪实", group-title="其他",金鹰纪实[高清]
+http://tv4:9000/rtp/239.3.1.58:8156
+#EXTINF:-1 tvg-name="全纪实", group-title="其他",乐游[高清]
+http://tv4:9000/rtp/239.3.1.207:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",风尚生活[高清]
+http://tv4:9000/rtp/239.3.1.114:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",地理
+http://tv4:9000/rtp/239.3.1.71:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",淘剧场[高清]
+http://tv4:9000/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",幸福剧场[高清]
+http://tv4:9000/rtp/239.3.1.112:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",都市剧场[高清]
+http://tv4:9000/rtp/239.3.1.203:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",淘娱乐[高清]
+http://tv4:9000/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",幸福娱乐[高清]
+http://tv4:9000/rtp/239.3.1.113:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",淘Baby[高清]
+http://tv4:9000/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",萌宠TV[高清]
+http://tv4:9000/rtp/239.3.1.102:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="联通IPTV",动漫秀场[高清]
+http://tv4:9000/rtp/239.3.1.202:8001
+#EXTINF:-1 tvg-name="湖南卫视", group-title="卫视",湖南卫视[高清]
+http://tv4:9000/rtp/239.3.1.132:8012
+#EXTINF:-1 tvg-name="东方卫视", group-title="卫视",东方卫视[高清]
+http://tv4:9000/rtp/239.3.1.136:8032
+#EXTINF:-1 tvg-name="浙江卫视", group-title="卫视",浙江卫视[高清]
+http://tv4:9000/rtp/239.3.1.137:8036
+#EXTINF:-1 tvg-name="江苏卫视", group-title="卫视",江苏卫视[高清]
+http://tv4:9000/rtp/239.3.1.135:8028
+#EXTINF:-1 tvg-name="深圳卫视", group-title="卫视",深圳卫视[高清]
+http://tv4:9000/rtp/239.3.1.134:8020
+#EXTINF:-1 tvg-name="广东卫视", group-title="卫视",广东卫视[高清]
+http://tv4:9000/rtp/239.3.1.142:8048
+#EXTINF:-1 tvg-name="安徽卫视", group-title="卫视",安徽卫视[高清]
+http://tv4:9000/rtp/239.3.1.211:8064
+#EXTINF:-1 tvg-name="天津卫视", group-title="卫视",天津卫视[高清]
+http://tv4:9000/rtp/239.3.1.141:1234
+#EXTINF:-1 tvg-name="重庆卫视", group-title="卫视",重庆卫视[高清]
+http://tv4:9000/rtp/239.3.1.122:8160
+#EXTINF:-1 tvg-name="山东卫视", group-title="卫视",山东卫视[高清]
+http://tv4:9000/rtp/239.3.1.209:8052
+#EXTINF:-1 tvg-name="黑龙江卫视", group-title="卫视",黑龙江卫视[高清]
+http://tv4:9000/rtp/239.3.1.133:8016
+#EXTINF:-1 tvg-name="河北卫视", group-title="卫视",河北卫视[高清]
+http://tv4:9000/rtp/239.3.1.148:8072
+#EXTINF:-1 tvg-name="河南卫视", group-title="卫视",河南卫视[高清]
+http://tv4:9000/rtp/rtp://239.3.1.50:8184
+#EXTINF:-1 tvg-name="辽宁卫视", group-title="卫视",辽宁卫视[高清]
+http://tv4:9000/rtp/239.3.1.210:8056
+#EXTINF:-1 tvg-name="湖北卫视", group-title="卫视",湖北卫视[高清]
+http://tv4:9000/rtp/239.3.1.138:8044
+#EXTINF:-1 tvg-name="吉林卫视", group-title="卫视",吉林卫视[高清]
+http://tv4:9000/rtp/239.3.1.240:8172
+#EXTINF:-1 tvg-name="贵州卫视", group-title="卫视",贵州卫视[高清]
+http://tv4:9000/rtp/239.3.1.149:8076
+#EXTINF:-1 tvg-name="东南卫视", group-title="卫视",东南卫视[高清]
+http://tv4:9000/rtp/239.3.1.156:8148
+#EXTINF:-1 tvg-name="江西卫视", group-title="卫视",江西卫视[高清]
+http://tv4:9000/rtp/239.3.1.123:8164
+#EXTINF:-1 tvg-name="旅游卫视", group-title="卫视",海南卫视
+http://tv4:9000/rtp/239.3.1.45:8304
+#EXTINF:-1 tvg-name="云南卫视", group-title="卫视",云南卫视
+http://tv4:9000/rtp/239.3.1.26:8108
+#EXTINF:-1 tvg-name="兵团卫视", group-title="卫视",兵团卫视
+http://tv4:9000/rtp/239.3.1.144:4120
+#EXTINF:-1 tvg-name="厦门卫视", group-title="卫视",厦门卫视
+http://tv4:9000/rtp/239.3.1.143:4120
+#EXTINF:-1 tvg-name="四川卫视", group-title="卫视",四川卫视
+http://tv4:9000/rtp/239.3.1.29:8288
+#EXTINF:-1 tvg-name="南方卫视", group-title="卫视",大湾区卫视
+http://tv4:9000/rtp/239.3.1.161:8001
+#EXTINF:-1 tvg-name="宁夏卫视", group-title="卫视",宁夏卫视
+http://tv4:9000/rtp/239.3.1.46:8124
+#EXTINF:-1 tvg-name="山西卫视", group-title="卫视",山西卫视
+http://tv4:9000/rtp/239.3.1.42:8172
+#EXTINF:-1 tvg-name="广西卫视", group-title="卫视",广西卫视
+http://tv4:9000/rtp/239.3.1.39:8300
+#EXTINF:-1 tvg-name="新疆卫视", group-title="卫视",新疆卫视
+http://tv4:9000/rtp/239.3.1.48:8160
+#EXTINF:-1 tvg-name="甘肃卫视", group-title="卫视",甘肃卫视
+http://tv4:9000/rtp/239.3.1.49:8188
+#EXTINF:-1 tvg-name="西藏卫视", group-title="卫视",西藏卫视
+http://tv4:9000/rtp/239.3.1.47:8164
+#EXTINF:-1 tvg-name="三沙卫视", group-title="卫视",三沙卫视
+http://tv4:9000/rtp/239.3.1.155:4120
+#EXTINF:-1 tvg-name="陕西卫视", group-title="卫视",陕西卫视
+http://tv4:9000/rtp/239.3.1.41:8140
+#EXTINF:-1 tvg-name="青海卫视", group-title="卫视",青海卫视
+http://tv4:9000/rtp/239.3.1.44:8184
+#EXTINF:-1 tvg-name="内蒙古卫视", group-title="卫视",内蒙古卫视
+http://tv4:9000/rtp/239.3.1.43:8176
+#EXTINF:-1 tvg-name="中国交通频道", group-title="其他",中国交通[高清]
+http://tv4:9000/rtp/239.3.1.188:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="北京地方",朝阳融媒[高清]
+http://tv4:9000/rtp/239.3.1.163:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="北京地方",通州融媒[高清]
+http://tv4:9000/rtp/239.3.1.221:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="北京地方",密云电视台[高清]
+http://tv4:9000/rtp/239.3.1.154:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="北京地方",房山电视台[高清]
+http://tv4:9000/rtp/239.3.1.96:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="北京地方",门头沟电视台[高清]
+http://tv4:9000/rtp/rtp://239.3.1.59:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="北京地方",延庆电视台
+http://tv4:9000/rtp/239.3.1.187:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="北京地方",法治天地[高清]
+http://tv4:9000/rtp/239.3.1.204:8001
+#EXTINF:-1 tvg-name="CGTN", group-title="CGTN",CGTN 新闻[高清]
+http://tv4:9000/rtp/239.3.1.215:4220
+#EXTINF:-1 tvg-name="CGTNDocumentary", group-title="CGTN",CGTN 记录[高清]
+http://tv4:9000/rtp/239.3.1.216:4220
+#EXTINF:-1 tvg-name="联通IPTV", group-title="CGTN",CGTN 西班牙语[高清]
+http://tv4:9000/rtp/239.3.1.217:4220
+#EXTINF:-1 tvg-name="联通IPTV", group-title="CGTN",CGTN 法语[高清]
+http://tv4:9000/rtp/239.3.1.218:4220
+#EXTINF:-1 tvg-name="联通IPTV", group-title="CGTN",CGTN 阿拉伯语[高清]
+http://tv4:9000/rtp/239.3.1.219:4220
+#EXTINF:-1 tvg-name="联通IPTV", group-title="CGTN",CGTN 俄语[高清]
+http://tv4:9000/rtp/239.3.1.220:4220
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",睛彩竞技[高清]
+http://tv4:9000/rtp/239.3.1.125:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",睛彩篮球[高清]
+http://tv4:9000/rtp/239.3.1.126:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",睛彩羽毛球[高清]
+http://tv4:9000/rtp/239.3.1.127:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",睛彩广场舞[高清]
+http://tv4:9000/rtp/239.3.1.128:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",魅力足球[高清]
+http://tv4:9000/rtp/239.3.1.201:8001
+#EXTINF:-1 tvg-name="茶频道", group-title="其他",茶频道[高清]
+http://tv4:9000/rtp/239.3.1.165:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",淘精彩[高清]
+http://tv4:9000/rtp/239.3.1.178:8001
+#EXTINF:-1 tvg-name="快乐垂钓", group-title="其他",快乐垂钓[高清]
+http://tv4:9000/rtp/239.3.1.164:8001
+#EXTINF:-1 tvg-name="生活时尚", group-title="其他",生活时尚[高清]
+http://tv4:9000/rtp/239.3.1.206:8001
+#EXTINF:-1 tvg-name="游戏风云", group-title="其他",游戏风云[高清]
+http://tv4:9000/rtp/239.3.1.205:8001
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",金色学堂[高清]
+http://tv4:9000/rtp/239.3.1.208:8001
+#EXTINF:-1 tvg-name="中国教育1台", group-title="其他",CETV1[高清]
+http://tv4:9000/rtp/239.3.1.57:8152
+#EXTINF:-1 tvg-name="中国教育2台", group-title="其他",CETV2
+http://tv4:9000/rtp/239.3.1.54:4120
+#EXTINF:-1 tvg-name="中国教育3台", group-title="其他",CETV3
+http://tv4:9000/rtp/239.3.1.55:4120
+#EXTINF:-1 tvg-name="中国教育4台", group-title="其他",CETV4
+http://tv4:9000/rtp/239.3.1.56:4120
+#EXTINF:-1 tvg-name="IPTV少儿动画", group-title="其他",少儿动画
+http://tv4:9000/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-name="IPTV热播剧场", group-title="其他",热播剧场
+http://tv4:9000/rtp/239.3.1.194:9020
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",解密
+http://tv4:9000/rtp/239.3.1.75:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",军事
+http://tv4:9000/rtp/239.3.1.76:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",军旅剧场
+http://tv4:9000/rtp/239.3.1.68:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",动画
+http://tv4:9000/rtp/239.3.1.80:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",古装剧场
+http://tv4:9000/rtp/239.3.1.69:4120
+#EXTINF:-1 tvg-name="嘉佳卡通", group-title="其他",嘉佳卡通
+http://tv4:9000/rtp/239.3.1.147:9268
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",国学
+http://tv4:9000/rtp/239.3.1.77:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",城市剧场
+http://tv4:9000/rtp/239.3.1.67:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",墨宝
+http://tv4:9000/rtp/239.3.1.83:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",好学生
+http://tv4:9000/rtp/239.3.1.81:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",山东教育
+http://tv4:9000/rtp/239.3.1.52:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",戏曲
+http://tv4:9000/rtp/239.3.1.78:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",早教
+http://tv4:9000/rtp/239.3.1.79:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",武侠剧场
+http://tv4:9000/rtp/239.3.1.90:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",武术
+http://tv4:9000/rtp/239.3.1.87:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",爱生活
+http://tv4:9000/rtp/239.3.1.86:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",美人
+http://tv4:9000/rtp/239.3.1.73:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",美妆
+http://tv4:9000/rtp/239.3.1.72:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",财富天下
+http://tv4:9000/rtp/239.3.1.53:9136
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",足球
+http://tv4:9000/rtp/239.3.1.89:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",金鹰卡通
+http://tv4:9000/rtp/239.3.1.51:9252
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",鉴赏
+http://tv4:9000/rtp/239.3.1.82:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",音乐现场
+http://tv4:9000/rtp/239.3.1.70:4120
+#EXTINF:-1 tvg-name="联通IPTV", group-title="其他",魅力时尚
+http://tv4:9000/rtp/239.3.1.196:9012
